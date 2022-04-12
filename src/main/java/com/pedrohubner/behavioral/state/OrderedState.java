@@ -1,4 +1,4 @@
-package com.pedrohubner.behavioral.status;
+package com.pedrohubner.behavioral.state;
 
 public class OrderedState implements OrderState {
     @Override
